@@ -1,6 +1,6 @@
 <?php
 
-$turno = readline ('Em qual turno você estuda? Responda com M para manhã, T para tarde ou N para noite:');
+$turno = "n";
 
   switch ($turno) {
     case "M" or "m":
